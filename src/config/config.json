@@ -1,0 +1,22 @@
+{
+  "mongodb_uri": "mongodb://localhost:27017/",
+  "database_name": "document_database",
+  "documents_collection": "documents",
+  "min_title_length": 10,
+  "max_date": "2022-01-01",
+  "max_sum": 5000,
+  "log_level": "INFO",
+  "log_file": "logs/document_processor.log",
+  "parser_map": {
+    "html": "parsers.html_parser.HTMLParser",
+    "default": "parsers.html_parser.HTMLParser"
+  },
+  "validator_map": {
+    "html": "validators.html_validator.HTMLValidator",
+    "default": "validators.html_validator.HTMLValidator"
+  },
+  "document_type_map": {
+    "html": "models.html_document.HTMLDocument",
+    "default": "models.html_document.HTMLDocument"
+  }
+}
