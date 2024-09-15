@@ -1,0 +1,206 @@
+2024-09-15 19:36:11,509 - __main__ - INFO - Starting Stage 1: Parsing and storing documents
+2024-09-15 19:36:12,435 - parsers.parser - INFO - Document 0_table.html parsed successfully.
+2024-09-15 19:36:12,453 - parsers.parser - INFO - Document 10_table.html parsed successfully.
+2024-09-15 19:36:12,469 - parsers.parser - INFO - Document 11_table.html parsed successfully.
+2024-09-15 19:36:12,499 - parsers.parser - INFO - Document 12_table.html parsed successfully.
+2024-09-15 19:36:12,518 - parsers.parser - INFO - Document 13_table.html parsed successfully.
+2024-09-15 19:36:12,539 - parsers.parser - INFO - Document 14_table.html parsed successfully.
+2024-09-15 19:36:12,555 - parsers.parser - INFO - Document 15_table.html parsed successfully.
+2024-09-15 19:36:12,574 - parsers.parser - INFO - Document 16_table.html parsed successfully.
+2024-09-15 19:36:12,593 - parsers.parser - INFO - Document 17_table.html parsed successfully.
+2024-09-15 19:36:12,626 - parsers.parser - INFO - Document 18_table.html parsed successfully.
+2024-09-15 19:36:12,639 - parsers.parser - INFO - Document 19_table.html parsed successfully.
+2024-09-15 19:36:12,659 - parsers.parser - INFO - Document 1_table.html parsed successfully.
+2024-09-15 19:36:12,685 - parsers.parser - INFO - Document 20_table.html parsed successfully.
+2024-09-15 19:36:12,712 - parsers.parser - INFO - Document 21_table.html parsed successfully.
+2024-09-15 19:36:12,729 - parsers.parser - INFO - Document 22_table.html parsed successfully.
+2024-09-15 19:36:12,752 - parsers.parser - INFO - Document 23_table.html parsed successfully.
+2024-09-15 19:36:12,771 - parsers.parser - INFO - Document 24_table.html parsed successfully.
+2024-09-15 19:36:12,795 - parsers.parser - INFO - Document 25_table.html parsed successfully.
+2024-09-15 19:36:12,831 - parsers.parser - INFO - Document 26_table.html parsed successfully.
+2024-09-15 19:36:12,852 - parsers.parser - INFO - Document 27_table.html parsed successfully.
+2024-09-15 19:36:12,867 - parsers.parser - INFO - Document 28_table.html parsed successfully.
+2024-09-15 19:36:12,882 - parsers.parser - INFO - Document 29_table.html parsed successfully.
+2024-09-15 19:36:12,894 - parsers.parser - INFO - Document 2_table.html parsed successfully.
+2024-09-15 19:36:12,907 - parsers.parser - INFO - Document 30_table.html parsed successfully.
+2024-09-15 19:36:12,947 - parsers.parser - INFO - Document 31_table.html parsed successfully.
+2024-09-15 19:36:12,961 - parsers.parser - INFO - Document 32_table.html parsed successfully.
+2024-09-15 19:36:12,991 - parsers.parser - INFO - Document 33_table.html parsed successfully.
+2024-09-15 19:36:13,006 - parsers.html_parser - WARNING - No tfoot element in documents/34_table.html
+2024-09-15 19:36:13,007 - parsers.parser - INFO - Document 34_table.html parsed successfully.
+2024-09-15 19:36:13,023 - parsers.parser - INFO - Document 35_table.html parsed successfully.
+2024-09-15 19:36:13,037 - parsers.parser - INFO - Document 36_table.html parsed successfully.
+2024-09-15 19:36:13,055 - parsers.parser - INFO - Document 37_table.html parsed successfully.
+2024-09-15 19:36:13,072 - parsers.parser - INFO - Document 38_table.html parsed successfully.
+2024-09-15 19:36:13,096 - parsers.parser - INFO - Document 39_table.html parsed successfully.
+2024-09-15 19:36:13,114 - parsers.parser - INFO - Document 3_table.html parsed successfully.
+2024-09-15 19:36:13,134 - parsers.parser - INFO - Document 40_table.html parsed successfully.
+2024-09-15 19:36:13,163 - parsers.parser - INFO - Document 41_table.html parsed successfully.
+2024-09-15 19:36:13,181 - parsers.parser - INFO - Document 42_table.html parsed successfully.
+2024-09-15 19:36:13,204 - parsers.parser - INFO - Document 43_table.html parsed successfully.
+2024-09-15 19:36:13,217 - parsers.parser - INFO - Document 44_table.html parsed successfully.
+2024-09-15 19:36:13,234 - parsers.parser - INFO - Document 45_table.html parsed successfully.
+2024-09-15 19:36:13,257 - parsers.parser - INFO - Document 46_table.html parsed successfully.
+2024-09-15 19:36:13,291 - parsers.parser - INFO - Document 47_table.html parsed successfully.
+2024-09-15 19:36:13,319 - parsers.parser - INFO - Document 48_table.html parsed successfully.
+2024-09-15 19:36:13,369 - parsers.parser - INFO - Document 49_table.html parsed successfully.
+2024-09-15 19:36:13,389 - parsers.parser - INFO - Document 4_table.html parsed successfully.
+2024-09-15 19:36:13,412 - parsers.parser - INFO - Document 50_table.html parsed successfully.
+2024-09-15 19:36:13,436 - parsers.parser - INFO - Document 51_table.html parsed successfully.
+2024-09-15 19:36:13,456 - parsers.parser - INFO - Document 52_table.html parsed successfully.
+2024-09-15 19:36:13,489 - parsers.parser - INFO - Document 53_table.html parsed successfully.
+2024-09-15 19:36:13,506 - parsers.parser - INFO - Document 54_table.html parsed successfully.
+2024-09-15 19:36:13,521 - parsers.parser - INFO - Document 55_table.html parsed successfully.
+2024-09-15 19:36:13,548 - parsers.parser - INFO - Document 56_table.html parsed successfully.
+2024-09-15 19:36:13,571 - parsers.parser - INFO - Document 57_table.html parsed successfully.
+2024-09-15 19:36:13,592 - parsers.parser - INFO - Document 58_table.html parsed successfully.
+2024-09-15 19:36:13,611 - parsers.parser - INFO - Document 59_table.html parsed successfully.
+2024-09-15 19:36:13,626 - parsers.parser - INFO - Document 5_table.html parsed successfully.
+2024-09-15 19:36:13,644 - parsers.parser - INFO - Document 60_table.html parsed successfully.
+2024-09-15 19:36:13,660 - parsers.parser - INFO - Document 61_table.html parsed successfully.
+2024-09-15 19:36:13,685 - parsers.parser - INFO - Document 62_table.html parsed successfully.
+2024-09-15 19:36:13,699 - parsers.parser - INFO - Document 63_table.html parsed successfully.
+2024-09-15 19:36:13,713 - parsers.html_parser - WARNING - No tfoot element in documents/64_table.html
+2024-09-15 19:36:13,714 - parsers.parser - INFO - Document 64_table.html parsed successfully.
+2024-09-15 19:36:13,728 - parsers.parser - INFO - Document 65_table.html parsed successfully.
+2024-09-15 19:36:13,754 - parsers.parser - INFO - Document 66_table.html parsed successfully.
+2024-09-15 19:36:13,787 - parsers.parser - INFO - Document 6_table.html parsed successfully.
+2024-09-15 19:36:13,818 - parsers.parser - INFO - Document 7_table.html parsed successfully.
+2024-09-15 19:36:13,837 - parsers.parser - INFO - Document 8_table.html parsed successfully.
+2024-09-15 19:36:13,872 - parsers.parser - INFO - Document 9_table.html parsed successfully.
+2024-09-15 19:36:13,892 - services.document_service - INFO - Document documents/0_table.html content stored.
+2024-09-15 19:36:13,894 - services.document_service - INFO - Document documents/10_table.html content stored.
+2024-09-15 19:36:13,897 - services.document_service - INFO - Document documents/11_table.html content stored.
+2024-09-15 19:36:13,898 - services.document_service - INFO - Document documents/12_table.html content stored.
+2024-09-15 19:36:13,900 - services.document_service - INFO - Document documents/13_table.html content stored.
+2024-09-15 19:36:13,902 - services.document_service - INFO - Document documents/14_table.html content stored.
+2024-09-15 19:36:13,905 - services.document_service - INFO - Document documents/15_table.html content stored.
+2024-09-15 19:36:13,907 - services.document_service - INFO - Document documents/16_table.html content stored.
+2024-09-15 19:36:13,908 - services.document_service - INFO - Document documents/17_table.html content stored.
+2024-09-15 19:36:13,910 - services.document_service - INFO - Document documents/18_table.html content stored.
+2024-09-15 19:36:13,913 - services.document_service - INFO - Document documents/19_table.html content stored.
+2024-09-15 19:36:13,915 - services.document_service - INFO - Document documents/1_table.html content stored.
+2024-09-15 19:36:13,916 - services.document_service - INFO - Document documents/20_table.html content stored.
+2024-09-15 19:36:13,918 - services.document_service - INFO - Document documents/21_table.html content stored.
+2024-09-15 19:36:13,920 - services.document_service - INFO - Document documents/22_table.html content stored.
+2024-09-15 19:36:13,923 - services.document_service - INFO - Document documents/23_table.html content stored.
+2024-09-15 19:36:13,924 - services.document_service - INFO - Document documents/24_table.html content stored.
+2024-09-15 19:36:13,926 - services.document_service - INFO - Document documents/25_table.html content stored.
+2024-09-15 19:36:13,928 - services.document_service - INFO - Document documents/26_table.html content stored.
+2024-09-15 19:36:13,931 - services.document_service - INFO - Document documents/27_table.html content stored.
+2024-09-15 19:36:13,932 - services.document_service - INFO - Document documents/28_table.html content stored.
+2024-09-15 19:36:13,934 - services.document_service - INFO - Document documents/29_table.html content stored.
+2024-09-15 19:36:13,936 - services.document_service - INFO - Document documents/2_table.html content stored.
+2024-09-15 19:36:13,939 - services.document_service - INFO - Document documents/30_table.html content stored.
+2024-09-15 19:36:13,941 - services.document_service - INFO - Document documents/31_table.html content stored.
+2024-09-15 19:36:13,942 - services.document_service - INFO - Document documents/32_table.html content stored.
+2024-09-15 19:36:13,944 - services.document_service - INFO - Document documents/33_table.html content stored.
+2024-09-15 19:36:13,947 - services.document_service - INFO - Document documents/34_table.html content stored.
+2024-09-15 19:36:13,949 - services.document_service - INFO - Document documents/35_table.html content stored.
+2024-09-15 19:36:13,950 - services.document_service - INFO - Document documents/36_table.html content stored.
+2024-09-15 19:36:13,952 - services.document_service - INFO - Document documents/37_table.html content stored.
+2024-09-15 19:36:13,955 - services.document_service - INFO - Document documents/38_table.html content stored.
+2024-09-15 19:36:13,957 - services.document_service - INFO - Document documents/39_table.html content stored.
+2024-09-15 19:36:13,959 - services.document_service - INFO - Document documents/3_table.html content stored.
+2024-09-15 19:36:13,961 - services.document_service - INFO - Document documents/40_table.html content stored.
+2024-09-15 19:36:13,964 - services.document_service - INFO - Document documents/41_table.html content stored.
+2024-09-15 19:36:13,965 - services.document_service - INFO - Document documents/42_table.html content stored.
+2024-09-15 19:36:13,967 - services.document_service - INFO - Document documents/43_table.html content stored.
+2024-09-15 19:36:13,970 - services.document_service - INFO - Document documents/44_table.html content stored.
+2024-09-15 19:36:13,972 - services.document_service - INFO - Document documents/45_table.html content stored.
+2024-09-15 19:36:13,974 - services.document_service - INFO - Document documents/46_table.html content stored.
+2024-09-15 19:36:13,976 - services.document_service - INFO - Document documents/47_table.html content stored.
+2024-09-15 19:36:13,979 - services.document_service - INFO - Document documents/48_table.html content stored.
+2024-09-15 19:36:13,981 - services.document_service - INFO - Document documents/49_table.html content stored.
+2024-09-15 19:36:13,983 - services.document_service - INFO - Document documents/4_table.html content stored.
+2024-09-15 19:36:13,986 - services.document_service - INFO - Document documents/50_table.html content stored.
+2024-09-15 19:36:13,989 - services.document_service - INFO - Document documents/51_table.html content stored.
+2024-09-15 19:36:13,991 - services.document_service - INFO - Document documents/52_table.html content stored.
+2024-09-15 19:36:13,993 - services.document_service - INFO - Document documents/53_table.html content stored.
+2024-09-15 19:36:13,995 - services.document_service - INFO - Document documents/54_table.html content stored.
+2024-09-15 19:36:13,998 - services.document_service - INFO - Document documents/55_table.html content stored.
+2024-09-15 19:36:14,000 - services.document_service - INFO - Document documents/56_table.html content stored.
+2024-09-15 19:36:14,003 - services.document_service - INFO - Document documents/57_table.html content stored.
+2024-09-15 19:36:14,005 - services.document_service - INFO - Document documents/58_table.html content stored.
+2024-09-15 19:36:14,007 - services.document_service - INFO - Document documents/59_table.html content stored.
+2024-09-15 19:36:14,009 - services.document_service - INFO - Document documents/5_table.html content stored.
+2024-09-15 19:36:14,011 - services.document_service - INFO - Document documents/60_table.html content stored.
+2024-09-15 19:36:14,014 - services.document_service - INFO - Document documents/61_table.html content stored.
+2024-09-15 19:36:14,016 - services.document_service - INFO - Document documents/62_table.html content stored.
+2024-09-15 19:36:14,018 - services.document_service - INFO - Document documents/63_table.html content stored.
+2024-09-15 19:36:14,021 - services.document_service - INFO - Document documents/64_table.html content stored.
+2024-09-15 19:36:14,023 - services.document_service - INFO - Document documents/65_table.html content stored.
+2024-09-15 19:36:14,025 - services.document_service - INFO - Document documents/66_table.html content stored.
+2024-09-15 19:36:14,027 - services.document_service - INFO - Document documents/6_table.html content stored.
+2024-09-15 19:36:14,030 - services.document_service - INFO - Document documents/7_table.html content stored.
+2024-09-15 19:36:14,032 - services.document_service - INFO - Document documents/8_table.html content stored.
+2024-09-15 19:36:14,034 - services.document_service - INFO - Document documents/9_table.html content stored.
+2024-09-15 19:36:14,034 - __main__ - INFO - Processed 67 documents
+2024-09-15 19:36:14,035 - __main__ - INFO - Starting Stage 2: Validating documents
+2024-09-15 19:36:14,044 - services.document_service - INFO - Document documents/0_table.html validated. Status: VALID
+2024-09-15 19:36:14,048 - services.document_service - INFO - Document documents/10_table.html validated. Status: INVALID
+2024-09-15 19:36:14,051 - services.document_service - INFO - Document documents/11_table.html validated. Status: VALID
+2024-09-15 19:36:14,055 - services.document_service - INFO - Document documents/12_table.html validated. Status: VALID
+2024-09-15 19:36:14,058 - services.document_service - INFO - Document documents/13_table.html validated. Status: INVALID
+2024-09-15 19:36:14,063 - services.document_service - INFO - Document documents/14_table.html validated. Status: INVALID
+2024-09-15 19:36:14,066 - services.document_service - INFO - Document documents/15_table.html validated. Status: VALID
+2024-09-15 19:36:14,070 - services.document_service - INFO - Document documents/16_table.html validated. Status: VALID
+2024-09-15 19:36:14,073 - services.document_service - INFO - Document documents/17_table.html validated. Status: VALID
+2024-09-15 19:36:14,077 - services.document_service - INFO - Document documents/18_table.html validated. Status: INVALID
+2024-09-15 19:36:14,081 - services.document_service - INFO - Document documents/19_table.html validated. Status: VALID
+2024-09-15 19:36:14,084 - services.document_service - INFO - Document documents/1_table.html validated. Status: VALID
+2024-09-15 19:36:14,088 - services.document_service - INFO - Document documents/20_table.html validated. Status: INVALID
+2024-09-15 19:36:14,091 - services.document_service - INFO - Document documents/21_table.html validated. Status: VALID
+2024-09-15 19:36:14,096 - services.document_service - INFO - Document documents/22_table.html validated. Status: VALID
+2024-09-15 19:36:14,099 - services.document_service - INFO - Document documents/23_table.html validated. Status: VALID
+2024-09-15 19:36:14,103 - services.document_service - INFO - Document documents/24_table.html validated. Status: INVALID
+2024-09-15 19:36:14,107 - services.document_service - INFO - Document documents/25_table.html validated. Status: INVALID
+2024-09-15 19:36:14,112 - services.document_service - INFO - Document documents/26_table.html validated. Status: INVALID
+2024-09-15 19:36:14,115 - services.document_service - INFO - Document documents/27_table.html validated. Status: VALID
+2024-09-15 19:36:14,119 - services.document_service - INFO - Document documents/28_table.html validated. Status: INVALID
+2024-09-15 19:36:14,123 - services.document_service - INFO - Document documents/29_table.html validated. Status: VALID
+2024-09-15 19:36:14,126 - services.document_service - INFO - Document documents/2_table.html validated. Status: VALID
+2024-09-15 19:36:14,131 - services.document_service - INFO - Document documents/30_table.html validated. Status: VALID
+2024-09-15 19:36:14,133 - services.document_service - INFO - Document documents/31_table.html validated. Status: VALID
+2024-09-15 19:36:14,136 - services.document_service - INFO - Document documents/32_table.html validated. Status: VALID
+2024-09-15 19:36:14,140 - services.document_service - INFO - Document documents/33_table.html validated. Status: INVALID
+2024-09-15 19:36:14,144 - services.document_service - INFO - Document documents/34_table.html validated. Status: INVALID
+2024-09-15 19:36:14,148 - services.document_service - INFO - Document documents/35_table.html validated. Status: VALID
+2024-09-15 19:36:14,151 - services.document_service - INFO - Document documents/36_table.html validated. Status: VALID
+2024-09-15 19:36:14,156 - services.document_service - INFO - Document documents/37_table.html validated. Status: INVALID
+2024-09-15 19:36:14,159 - services.document_service - INFO - Document documents/38_table.html validated. Status: VALID
+2024-09-15 19:36:14,163 - services.document_service - INFO - Document documents/39_table.html validated. Status: VALID
+2024-09-15 19:36:14,166 - services.document_service - INFO - Document documents/3_table.html validated. Status: INVALID
+2024-09-15 19:36:14,170 - services.document_service - INFO - Document documents/40_table.html validated. Status: VALID
+2024-09-15 19:36:14,174 - services.document_service - INFO - Document documents/41_table.html validated. Status: INVALID
+2024-09-15 19:36:14,178 - services.document_service - INFO - Document documents/42_table.html validated. Status: INVALID
+2024-09-15 19:36:14,181 - services.document_service - INFO - Document documents/43_table.html validated. Status: VALID
+2024-09-15 19:36:14,186 - services.document_service - INFO - Document documents/44_table.html validated. Status: VALID
+2024-09-15 19:36:14,189 - services.document_service - INFO - Document documents/45_table.html validated. Status: VALID
+2024-09-15 19:36:14,192 - services.document_service - INFO - Document documents/46_table.html validated. Status: VALID
+2024-09-15 19:36:14,197 - services.document_service - INFO - Document documents/47_table.html validated. Status: INVALID
+2024-09-15 19:36:14,200 - services.document_service - INFO - Document documents/48_table.html validated. Status: INVALID
+2024-09-15 19:36:14,205 - services.document_service - INFO - Document documents/49_table.html validated. Status: VALID
+2024-09-15 19:36:14,209 - services.document_service - INFO - Document documents/4_table.html validated. Status: VALID
+2024-09-15 19:36:14,213 - services.document_service - INFO - Document documents/50_table.html validated. Status: INVALID
+2024-09-15 19:36:14,216 - services.document_service - INFO - Document documents/51_table.html validated. Status: INVALID
+2024-09-15 19:36:14,220 - services.document_service - INFO - Document documents/52_table.html validated. Status: VALID
+2024-09-15 19:36:14,223 - services.document_service - INFO - Document documents/53_table.html validated. Status: INVALID
+2024-09-15 19:36:14,227 - services.document_service - INFO - Document documents/54_table.html validated. Status: VALID
+2024-09-15 19:36:14,231 - services.document_service - INFO - Document documents/55_table.html validated. Status: INVALID
+2024-09-15 19:36:14,235 - services.document_service - INFO - Document documents/56_table.html validated. Status: INVALID
+2024-09-15 19:36:14,240 - services.document_service - INFO - Document documents/57_table.html validated. Status: VALID
+2024-09-15 19:36:14,243 - services.document_service - INFO - Document documents/58_table.html validated. Status: VALID
+2024-09-15 19:36:14,247 - services.document_service - INFO - Document documents/59_table.html validated. Status: VALID
+2024-09-15 19:36:14,250 - services.document_service - INFO - Document documents/5_table.html validated. Status: INVALID
+2024-09-15 19:36:14,254 - services.document_service - INFO - Document documents/60_table.html validated. Status: INVALID
+2024-09-15 19:36:14,257 - services.document_service - INFO - Document documents/61_table.html validated. Status: INVALID
+2024-09-15 19:36:14,262 - services.document_service - INFO - Document documents/62_table.html validated. Status: INVALID
+2024-09-15 19:36:14,266 - services.document_service - INFO - Document documents/63_table.html validated. Status: VALID
+2024-09-15 19:36:14,269 - services.document_service - INFO - Document documents/64_table.html validated. Status: INVALID
+2024-09-15 19:36:14,273 - services.document_service - INFO - Document documents/65_table.html validated. Status: VALID
+2024-09-15 19:36:14,277 - services.document_service - INFO - Document documents/66_table.html validated. Status: VALID
+2024-09-15 19:36:14,281 - services.document_service - INFO - Document documents/6_table.html validated. Status: INVALID
+2024-09-15 19:36:14,284 - services.document_service - INFO - Document documents/7_table.html validated. Status: INVALID
+2024-09-15 19:36:14,288 - services.document_service - INFO - Document documents/8_table.html validated. Status: VALID
+2024-09-15 19:36:14,292 - services.document_service - INFO - Document documents/9_table.html validated. Status: INVALID
